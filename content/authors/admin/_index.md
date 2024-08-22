@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: God Of Genjustsu
 
 # Name pronunciation (optional)
 name_pronunciation: S Khavin
